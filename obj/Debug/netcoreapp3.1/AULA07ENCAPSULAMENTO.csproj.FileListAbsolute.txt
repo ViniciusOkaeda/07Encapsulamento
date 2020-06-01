@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.exe
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.deps.json
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.dll
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.pdb
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.dll
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.pdb
+C:\Users\vinicius\Documents\AULA07ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\AULA07ENCAPSULAMENTO.genruntimeconfig.cache

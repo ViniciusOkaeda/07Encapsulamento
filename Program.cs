@@ -6,7 +6,12 @@ namespace AULA07ENCAPSULAMENTO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Cartao card = new Cartao();
+            card.AprovarCompra();
+
+            MasterCard master = new MasterCard();
+            master.parcelas = 3;
+            master.ComprarComDescontoMastercard(50f);
         }
     }
 }
